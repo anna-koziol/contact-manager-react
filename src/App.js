@@ -1,6 +1,5 @@
 import React from 'react';
 import List from "./List";
-import Add from "./Add";
 import './App.css';
 
 class AppHeader extends React.Component {
