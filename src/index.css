@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.ui.menu .item img.logo {
+  margin-right: 1.5em;
+}
+
+.main.container {
+  margin-top: 5em;
+}
+
+ul.ui.list li:before {
+  display: none;
+  content: '';
+}
+img {
+  border: 1px solid #7F8B82;
+}
+
+.li:hover {
+  background-color: rgba(127, 139, 130, 0.1) !important;
+}
+
+
+.del {
+  float: right;
+  border: 0px solid silver !important;
+  width: 30px;
+  height: 30px;
+  background-color: rgba(0, 0, 0, 0.84);
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.54);
+  color:  white;
+  text-align: center;
+  font-weight: bold;
+}
+
+span {
+  margin: auto;
+  display: block;
+  width: 320px;
+}
+
+input:focus { 
+  outline: none !important; 
+}
+
