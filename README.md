@@ -22,3 +22,6 @@ This project is released under the MIT Licence.
 
 ## Author
 Anna Koziol
+
+## Screen
+![GitHub Img](./screen.png)
