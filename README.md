@@ -24,4 +24,4 @@ This project is released under the MIT Licence.
 Anna Koziol
 
 ## Screen
-![GitHub Img](./screen.png)
+![GitHub Img](./screen.PNG)
